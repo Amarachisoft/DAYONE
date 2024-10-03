@@ -1,0 +1,1 @@
+const. mobileMenuButton = document.getElementById
